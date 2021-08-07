@@ -80,7 +80,7 @@ The world of bits though, is not immune to stagnation. The first iPhone and the 
 
     
 
-Up to this point, I’ve done my best to summarize the two biggest takeaways I learned from that conversation. Embeded Growth Obligations, and the Great Stagnation in the world of atoms. At no point in this 3 hour dialogue though is Bitcoin, or even the money is mentioned. They are so close! Peter targets identifies that the great stagnation occurred somewhere between 1968 and 1973, Eric targets it as 1971-73 (Shoutout to the wtfhappenedin1971.com crew). I’d like to walk through how I’ve unified what has been discussed so far to the world of Bitcoin. 
+Up to this point, I’ve done my best to summarize the two biggest takeaways I learned from that conversation. Embedded Growth Obligations, and the Great Stagnation in the world of atoms. At no point in this 3 hour dialogue though is Bitcoin, or even the money is mentioned. They are so close! Peter targets identifies that the great stagnation occurred somewhere between 1968 and 1973, Eric targets it as 1971-73 (Shoutout to the wtfhappenedin1971.com crew). I’d like to walk through how I’ve unified what has been discussed so far to the world of Bitcoin. 
 
 
 
@@ -112,7 +112,7 @@ The first 30 year bond was auctioned in 1977, which is a considerable break from
 
 
 
-The interest rate of a 30 year bond has an implicit compact. Among those currently at the wheel, how much are they willing to leave to future generations? We often evaluate our leaders based on what generation are they? From boomers to zoomers and everything in between. What if its more complicated than that? What if those who are in power have the gun of Embeded Growth Obligations pointed to their head to hit the money printer button? Are they slaves to the system they helped build?
+The interest rate of a 30 year bond has an implicit compact. Among those currently at the wheel, how much are they willing to leave to future generations? We often evaluate our leaders based on what generation are they? From boomers to zoomers and everything in between. What if its more complicated than that? What if those who are in power have the gun of Embedded Growth Obligations pointed to their head to hit the money printer button? Are they slaves to the system they helped build?
 
 
 
@@ -152,7 +152,7 @@ I’d like to leave as a parting thought a quote Thiel mentions in that episode 
 
 
 
-Bitcoin is an integral part to answer this question. This goes far beyond personal monetary gain. I see a bright orange future where Bitcoiners, where we are not caught up in quarterly earnings, but on developing intergenerational wealth. It is not enough that I succeed, my Great Great Grand Children that I may never meet must thrive. Bitcoiners will become the capital allocators or tomorrow, with projects that may not have payoffs in our lifetime. Bitcoiners will have a seat at the table to check the parasitic Embeded Growth Obligation, and make sure that Bitcoin as spoken truth, will stop the lies and build a better world for our descendants to live in.
+Bitcoin is an integral part to answer this question. This goes far beyond personal monetary gain. I see a bright orange future where Bitcoiners, where we are not caught up in quarterly earnings, but on developing intergenerational wealth. It is not enough that I succeed, my Great Great Grand Children that I may never meet must thrive. Bitcoiners will become the capital allocators or tomorrow, with projects that may not have payoffs in our lifetime. Bitcoiners will have a seat at the table to check the parasitic Embedded Growth Obligation, and make sure that Bitcoin as spoken truth, will stop the lies and build a better world for our descendants to live in.
 
 
 
