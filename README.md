@@ -8,7 +8,7 @@ In the year my grandfather was born, the Supersonic Jet Engine, Synthetic Rubber
 
 
 
-Last weekend I was out for a morning walk with my dog and got a push notification onto my phone, Eric Weinstein was taking on Clubhouse. The room was titled, “Why are Scientists, The Media, and our Politicians Lying to us?” I knew this was going to be great content. For those that don’t know Eric, he is a heterodox thinker, Managing Director of Thiel capital, and the person who coined the term “The Intellectual Dark Web”. In the past year he has had some brushes with the Bitcoin Community at large.
+Last weekend I was out for a morning walk with my dog and got a push notification onto my phone, Eric Weinstein was talking on Clubhouse. The room was titled, “Why are Scientists, The Media, and our Politicians Lying to us?” I knew this was going to be great content. For those that don’t know Eric, he is a heterodox thinker, Managing Director of Thiel capital, and the person who coined the term “The Intellectual Dark Web”. In the past year he has had some brushes with the Bitcoin Community at large.
 
 
 
