@@ -12,7 +12,7 @@ Last weekend I was out for a morning walk with my dog and got a push notificatio
 
 
 
-I’ve listened to Eric for years as he is able to lay out mental models that help me see the world differently, or as he calls them “Portals”, a phenomena he named his podcast after called “The Portal”. In that clubhouse room, he attributes the cross-institutional decay to an idea that caught my attention, “Embedded Growth Obligation.”  I had head this term before, on his inaugural podcast episode from 2019 with Peter Thiel labeled, “An Era of Stagnation & Univeral Institional Failure”.
+I’ve listened to Eric for years as he is able to lay out mental models that help me see the world differently, or as he calls them “Portals”, a phenomena he named his podcast after called “The Portal”. In that clubhouse room, he attributes the cross-institutional decay to an idea that caught my attention, “Embedded Growth Obligation.”  I had head this term before, on his inaugural podcast episode from 2019 with Peter Thiel labeled, “An Era of Stagnation & Universal Institional Failure”.
 
 
 
