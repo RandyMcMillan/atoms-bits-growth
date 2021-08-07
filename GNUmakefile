@@ -1,8 +1,6 @@
 TIME                                   := $(shell date +%s)
 export TIME
-
 all: codespell say listen
-
 say:
 	say -f README.md -o README.aiff
 codespell:
