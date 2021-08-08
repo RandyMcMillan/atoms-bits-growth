@@ -2,7 +2,7 @@ Atoms, Bits, and Growth
 
 In the year my grandfather was born, the Supersonic Jet Engine, Synthetic Rubber, and the modern microscope was invented. The year my father was born, the laser, the halogen lamp, and the first GPS satellite was invented. The year I was the modern internet was invented by bringing Tim Berners Lee’s proposal: “World Wide Web: Proposal for a Hypertext Project” to life with the first website.
 
-Try to smooth out the transition between these to thoughts.... 
+    Try to smooth out the transition between these two thoughts.... 
 
 Last weekend I was out for a morning walk with my dog and got a push notification onto my phone, Eric Weinstein was talking on Clubhouse. The room was titled, “Why are Scientists, The Media, and our Politicians Lying to us?” I knew this was going to be great content. For those that don’t know Eric, he is a heterodox thinker, Managing Director of Thiel capital, and the person who coined the term “The Intellectual Dark Web”. In the past year he has had some brushes with the Bitcoin Community at large.
 
@@ -75,4 +75,6 @@ I’d like to leave as a parting thought a quote Thiel mentions in that episode 
 Bitcoin is an integral part to answer this question. This goes far beyond personal monetary gain. I see a bright orange future where Bitcoiners, where we are not caught up in quarterly earnings, but on developing intergenerational wealth. It is not enough that I succeed, my Great Great Grand Children that I may never meet must thrive. Bitcoiners will become the capital allocators or tomorrow, with projects that may not have payoffs in our lifetime. Bitcoiners will have a seat at the table to check the parasitic Embedded Growth Obligation, and make sure that Bitcoin as spoken truth, will stop the lies and build a better world for our descendants to live in.
 
 
-ADD CITATIONS!! You cire several statistics - use proper citation 
+    ADD CITATIONS!! You cire several statistics - use proper citation 
+
+
