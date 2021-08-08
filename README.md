@@ -74,3 +74,5 @@ I’d like to leave as a parting thought a quote Thiel mentions in that episode 
 
 Bitcoin is an integral part to answer this question. This goes far beyond personal monetary gain. I see a bright orange future where Bitcoiners, where we are not caught up in quarterly earnings, but on developing intergenerational wealth. It is not enough that I succeed, my Great Great Grand Children that I may never meet must thrive. Bitcoiners will become the capital allocators or tomorrow, with projects that may not have payoffs in our lifetime. Bitcoiners will have a seat at the table to check the parasitic Embedded Growth Obligation, and make sure that Bitcoin as spoken truth, will stop the lies and build a better world for our descendants to live in.
 
+
+ADD CITATIONS!! You cire several statistics - use proper citation 
