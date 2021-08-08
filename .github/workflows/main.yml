@@ -32,10 +32,3 @@ jobs:
           make codespell
           make
           
-      - name: Download a Build Artifact
-        uses: actions/download-artifact@v2.0.10
-        with:
-          # Artifact name
-          name: # optional
-          # Destination path
-          path: spellcheck.log 
