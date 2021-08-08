@@ -28,9 +28,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          brew install codespell make
-          PATH="/usr/local/opt/make/libexec/gnubin:$PATH"
-          #codespell --skip="*.aiff,.git" > spellcheck.log
+          brew install codespell
           make codespell
           make
           
@@ -40,4 +38,4 @@ jobs:
           # Artifact name
           name: # optional
           # Destination path
-          path: 
+          path: spellcheck.log 
