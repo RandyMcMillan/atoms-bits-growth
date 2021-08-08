@@ -1,9 +1,5 @@
 Atoms, Bits, and Growth
 
-In the year my grandfather was born, the Supersonic Jet Engine, Synthetic Rubber, and the modern microscope was invented. The year my father was born, the laser, the halogen lamp, and the first GPS satellite was invented. The year I was the modern internet was invented by bringing Tim Berners Lee’s proposal: “World Wide Web: Proposal for a Hypertext Project” to life with the first website.
-
-    Try to smooth out the transition between these two thoughts.... 
-
 Last weekend I was out for a morning walk with my dog and got a push notification onto my phone, Eric Weinstein was talking on Clubhouse. The room was titled, “Why are Scientists, The Media, and our Politicians Lying to us?” I knew this was going to be great content. For those that don’t know Eric, he is a heterodox thinker, Managing Director of Thiel capital, and the person who coined the term “The Intellectual Dark Web”. In the past year he has had some brushes with the Bitcoin Community at large.
 
 I’ve listened to Eric for years as he is able to lay out mental models that help me see the world differently, or as he calls them “Portals”, a phenomena he named his podcast after called “The Portal”. In that clubhouse room, he attributes the cross-institutional decay to an idea that caught my attention, “Embedded Growth Obligation.”  I had head this term before, on his inaugural podcast episode from 2019 with Peter Thiel labeled, “An Era of Stagnation & Universal Institional Failure”.
