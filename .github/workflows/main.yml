@@ -29,12 +29,12 @@ jobs:
       - name: Run a multi-line script
         run: |
           apt install codespell
-          codespell .
+          codespell
           
       - name: Download a Build Artifact
-  uses: actions/download-artifact@v2.0.10
-  with:
-    # Artifact name
-    name: # optional
-    # Destination path
-    path: # optional
+        uses: actions/download-artifact@v2.0.10
+        with:
+          # Artifact name
+          name: # optional
+          # Destination path
+          path: 

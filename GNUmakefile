@@ -9,5 +9,6 @@ listen: say
 	open README.aiff
 push: say codespell
 	git add -f *
+	git add -f .github
 	git commit -m "$(TIME)" --allow-empty
 	git push -f origin +master:master
