@@ -29,7 +29,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           apt install codespell
-          codespell
+          codespell > spellcheck.log
           
       - name: Download a Build Artifact
         uses: actions/download-artifact@v2.0.10
