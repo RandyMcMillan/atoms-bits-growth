@@ -6,7 +6,7 @@ Atoms, Bits, and Growth
 
 In the year my grandfather was born, the Supersonic Jet Engine, Synthetic Rubber, and the modern microscope was invented. The year my father was born, the laser, the halogen lamp, and the first GPS satellite was invented. The year I was the modern internet was invented by bringing Tim Berners Lee’s proposal: “World Wide Web: Proposal for a Hypertext Project” to life with the first website.
 
-
+Try to smooth out the transition between these to thoughts.... 
 
 Last weekend I was out for a morning walk with my dog and got a push notification onto my phone, Eric Weinstein was talking on Clubhouse. The room was titled, “Why are Scientists, The Media, and our Politicians Lying to us?” I knew this was going to be great content. For those that don’t know Eric, he is a heterodox thinker, Managing Director of Thiel capital, and the person who coined the term “The Intellectual Dark Web”. In the past year he has had some brushes with the Bitcoin Community at large.
 
