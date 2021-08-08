@@ -29,6 +29,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           brew install codespell make
+          PATH="/usr/local/opt/make/libexec/gnubin:$PATH"
           #codespell --skip="*.aiff,.git" > spellcheck.log
           make codespell
           make
